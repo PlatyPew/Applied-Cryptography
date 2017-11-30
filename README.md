@@ -95,13 +95,7 @@ Your group has been tasked to:
        c) For each of the threats, specify the security goal(s) that is/are
           affected.
        d) Suggest possible countermeasures/controls for each of the threats
-          identified. The suggested countermeasures/controls should be
-
-
-```
-feasible and the team must be able to implement the proposed
-solution in your final software product.
-```
+          identified. The suggested countermeasures/controls should be feasible and the team must be able to implement the proposed solution in your final software product.
 6. References
     - If you use any materials in your report, please quote the reference.
     - You can refer to books, journals, or online resources. But please
